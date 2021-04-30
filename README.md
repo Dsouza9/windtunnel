@@ -35,3 +35,6 @@ Please check out our user manual for general operation of the wind tunnel using 
 The last revision of the schematic can be found here:
 ![Schematic](https://user-images.githubusercontent.com/46977434/116702538-3805eb80-a997-11eb-8f58-c7fd30297ea6.png)
 Notice I changed the connection LCD D5 from PB1 to PC4. 
+You might be curious as to why there is a 5V-12V step-up buck converter. This is to ensure the signal from the ATMega328 is strong enough for the input to the motor to read. The minimum input voltage to the motor is 5V so to account for any error, we wanted to bring it up to 12V. The max input voltage is 24V.
+
+
