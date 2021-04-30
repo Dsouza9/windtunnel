@@ -6,7 +6,7 @@ To see how to wire the motor using the molex cable, as well as all other necessa
 refer to the motor's manual found below:
 https://www.teknic.com/files/downloads/ac_clearpath-mc-sd_manual.pdf
 
-# Recommended Experience
+# Recommended Team Qualifications
 * B+ or better in ECE 263
 * Used an LCD/Keypad extensively before
 * Used and completed a project using an LCD/Keypad as well as PWM operations in ECE 388/previously
