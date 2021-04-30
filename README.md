@@ -18,7 +18,7 @@ We wanted the user to be able to control the operation of the tunnel without the
 
 # As We Left It
 In the current configuration, primary control is designed with a computer connection to the motor and user input using the motor's in-house software. 
-I am leaving you with the LCD programed to produce an output from the keypad. There are however bugs that remain with the keypad. For instance, each number press is not guaranteed. Most of the time (>80%) the number pressed is produced once. However, there are times it is not produced at all
+I am leaving you with the LCD programmed to display output from the keypad. There are however bugs that remain with the keypad. For instance, each number press is not guaranteed. Most of the time (>80%) the number pressed is produced once. However, there are times it is not produced at all
 or produced twice or more. This I beleive is due to button bounce which I tried to counter. Then there is the issue
 with pressing "0" on the keypad. The code to produce a "0" is...fubar'ed. "0" is used as a condition else where in the code
 and when pressed it will print 8 times, stop, print 8 times, stop, repeat. But, good news. By pressing "A" you can clear the display.
