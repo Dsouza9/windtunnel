@@ -6,6 +6,12 @@ To see how to wire the motor using the molex cable, as well as all other necessa
 refer to the motor's manual found below:
 https://www.teknic.com/files/downloads/ac_clearpath-mc-sd_manual.pdf
 
+# Recommended Experience
+* B or Better in ECE 263
+* Used an LCD/Keypad extensively before
+* Used an LCD/Keypad as well as PWM operations in ECE 388/previously 
+(not just for a lab in ECE 263 unless you still remember it thoroughly)
+* One ECE major and CPE major or One ECE major and a dual ECE-CPE major
 
 # As We Left It
 In the current configuration, I am leaving you with the LCD programed to produce an output from the keypad.
@@ -17,9 +23,8 @@ and when pressed it will print 8 times, stop, print 8 times, stop, repeat. But, 
 But only for the first line :) As you can see there is a lot of clean up to do. This is mainly due to time contraints expereinced and COVID-19.
 And possibly because we weren't the best coders :) (that is more likely the case).
 
-Additionally, for PWM operation, PB1 or PB2 or both needs to be open but it is currently occupied by the LCD. This is a simple 
-code change I might do in the next day. If not, change this pin location to PC4/5 or whatever else is open that you are 
-sure you don't need to use for something else. As ususal, refer to the microcontrollers datasheet for info as well as your ECE 263 notes:
+Additionally, for PWM operation, PB1 or PB2 or both needs to be open. As ususal, refer to the microcontrollers datasheet/Teknic motor manual for info 
+as well as your ECE 263 notes:
 http://ww1.microchip.com/downloads/en/DeviceDoc/40001906A.pdf
 
 # Useful Links and Images
