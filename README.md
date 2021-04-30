@@ -1,2 +1,2 @@
 # Wind Tunnel User Interface Program
-Code for LCD/Keypad interface
+This Github contains the code for LCD/Keypad interface
