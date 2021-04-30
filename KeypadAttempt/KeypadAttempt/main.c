@@ -29,16 +29,16 @@
 #define LCD_PORT     	PORTB                   
 #define LCD_BIT_D7   	PORTB3					// LCD D7 connection to B3
 #define LCD_BIT_D6   	PORTB2					// LCD D6 connection to B2
-#define LCD_BIT_D5   	PORTB1					// LCD D5 connection to B1
 #define LCD_BIT_D4   	PORTB0					// LCD D4 connection to B0
 #define LCD_DDR      	DDRB
 
-#define LCD_PORT_EN     PORTC                   // LCD Enable pin
-#define LCD_BIT_EN		PORTC1					// LCD RS pin connection to C1
+#define LCD_PORT_EN     PORTC                   		// LCD Enable pin
+#define LCD_BIT_EN      PORTC1					// LCD RS pin connection to C1
+#define LCD_BIT_D5   	PORTC4					// LCD D5 connection to C4
 #define LCD_DDR_EN      DDRC
 
 #define LCD_PORT_RS     PORTC                   // LCD Register Select
-#define LCD_BIT_RS      PORTC0					// LCD RS pin connection to C0
+#define LCD_BIT_RS      PORTC0			// LCD RS pin connection to C0
 #define LCD_DDR_RS      DDRC
 
 // LCD module information
