@@ -4,6 +4,7 @@ The idea is that the user should be able to control the operation of the tunnel 
 the need for a computer connection to the Teknic ClearPath MCPV motor. 
 To see how to wire the motor using the molex cable, as well as all other necessary setup/connections
 refer to the motor's manual found below:
+
 https://www.teknic.com/files/downloads/ac_clearpath-mc-sd_manual.pdf
 
 # Recommended Team Qualifications
