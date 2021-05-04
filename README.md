@@ -10,7 +10,7 @@ https://www.teknic.com/files/downloads/ac_clearpath-mc-sd_manual.pdf
 # Recommended Team Qualifications
 * B+ or better in ECE 263
 * Used an LCD/Keypad extensively before
-* Used and completed a project using an LCD/Keypad as well as PWM operations in ECE 388/previously
+* Used and/or completed a project using an LCD/Keypad as well as PWM operations in ECE 388/previously
 (not just for a lab in ECE 263 unless you still remember it thoroughly)
 * One ECE major and CPE major or One ECE major and a dual ECE-CPE major
 
